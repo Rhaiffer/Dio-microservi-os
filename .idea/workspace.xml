@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8c43219-a2ab-4d0e-ad5f-be6479d54981" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DigitalInnovatinOne/lista/.idea/lista.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DigitalInnovatinOne/personapi/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DigitalInnovatinOne/personapi/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/dio-experts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/config-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/config-server.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/config-server.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/gateway.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/gateway.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/product-catalog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/product-catalog.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/product-catalog.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/service-discovery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/service-discovery.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/service-discovery.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/shopping-cart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/shopping-cart.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-microsserviços/.idea/modules/shopping-cart.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/dio-experts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/config-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/config-server.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/config-server.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/gateway.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/gateway.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/product-catalog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/product-catalog.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/product-catalog.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/service-discovery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/service-discovery.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/service-discovery.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/shopping-cart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/shopping-cart.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/modules/shopping-cart.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/src/main/java/digitalinnovation/one/experts/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/config-server/src/test/java/digitalinnovation/one/experts/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/src/main/java/digitalinnovation/one/experts/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/gateway/src/test/java/digitalinnovation/one/experts/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/ProductCatalogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/config/ElasticSearchConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/product-catalog/src/test/java/digitalinnovation/one/experts/productcatalog/ProductCatalogApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/run-elasticsearch.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/src/main/java/digitalinnovation/one/experts/servicediscovery/ServiceDiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/service-discovery/src/test/java/digitalinnovation/one/experts/servicediscovery/ServiceDiscoveryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/ShoppingCartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto-3-dio/shopping-cart/src/test/java/digitalinnovation/one/experts/shoppingcart/ShoppingCartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elasticsearch-7.14.0.msi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dio-projeto-microsserviços.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/dio-experts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/config-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/config-server.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/config-server.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/gateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/gateway.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/gateway.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/product-catalog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/product-catalog.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/product-catalog.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/service-discovery.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/service-discovery.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/service-discovery.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/shopping-cart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/shopping-cart.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/modules/shopping-cart.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/src/main/java/digitalinnovation/one/experts/configserver/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/config-server/src/test/java/digitalinnovation/one/experts/configserver/ConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/src/main/java/digitalinnovation/one/experts/gateway/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/gateway/src/test/java/digitalinnovation/one/experts/gateway/GatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/ProductCatalogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/config/ElasticSearchConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/main/java/digitalinnovation/one/experts/productcatalog/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/product-catalog/src/test/java/digitalinnovation/one/experts/productcatalog/ProductCatalogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/run-elasticsearch.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/src/main/java/digitalinnovation/one/experts/servicediscovery/ServiceDiscoveryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/service-discovery/src/test/java/digitalinnovation/one/experts/servicediscovery/ServiceDiscoveryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/ShoppingCartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/controller/CartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/model/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/model/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/java/digitalinnovation/one/experts/shoppingcart/repository/CartRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dio-experts-master/shopping-cart/src/test/java/digitalinnovation/one/experts/shoppingcart/ShoppingCartApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/dio-experts-master/config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/dio-experts-master/gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/dio-experts-master/product-catalog">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/dio-experts-master/service-discovery">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/dio-experts-master/shopping-cart">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/dio-experts-master/config-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/dio-experts-master/product-catalog">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product-catalog" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product-catalog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product-catalog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wopGfAa0NynMHgQ1sQxBgb0Gwm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Gradle.product-catalog [build]">
+    <configuration name="product-catalog [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dio-experts-master/product-catalog" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="product-catalog [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dio-experts-master/product-catalog" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.product-catalog [build]" />
+        <item itemvalue="Gradle.product-catalog [bootJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c43219-a2ab-4d0e-ad5f-be6479d54981" name="Changes" comment="" />
+      <created>1629134701462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629134701462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
